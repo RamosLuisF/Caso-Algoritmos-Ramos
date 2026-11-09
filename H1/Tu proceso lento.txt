@@ -1,0 +1,19 @@
+PROCESO: Revisión, validación y transcripción de documentos educativos y listas de participantes.
+
+1. ¿Cómo se busca/recorre actualmente?
+- Se realiza de forma secuencial, revisando uno por uno los registros y documentos de respaldo de los participantes que envían los municipios, comparándolos de manera manual para verificar datos y detectar duplicidades.
+
+2. Estimación del O actual y justificación:
+- Clasificación: O(n)
+- Justificación: El tiempo de procesamiento y revisión manual crece de forma lineal y directamente proporcional a la cantidad de participantes (n). A mayor volumen de registros, mayor es el tiempo acumulado de revisión.
+
+3. Análisis de Opciones de Complejidad para el Proceso:
+
+OPCIÓN A (Proceso Manual / Secuencial Actual)
+- Complejidad: O(n)
+- Justificación: Al revisar y validar los documentos de los participantes uno por uno de forma secuencial, el tiempo total de ejecución es directamente proporcional al número de registros (n) ingresados desde los municipios.
+
+OPCIÓN B (Proceso Anidado / Comparación Exhaustiva sin Índices)
+- Complejidad: O(n^2)
+- Justificación: Se presenta cuando el personal compara cada registro contra todos los demás de la lista de forma manual para buscar cruces o duplicados complejos, haciendo que las operaciones crezcan de manera cuadrática respecto a la cantidad de datos.
+*/
