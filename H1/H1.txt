@@ -1,0 +1,25 @@
+PROPUESTA DE OPTIMIZACIÓN DE PROCESO – GESTIÓN 2026 Oficina
+Departamental Oruro – Programa Nacional de Post-Alfabetización
+
+PROCESO A OPTIMIZAR El proceso seleccionado es la revisión, validación y
+transcripción de documentos educativos y listas de participantes.
+Actualmente, la información puede llegar en documentos físicos, archivos
+digitales y planillas con formatos diferentes. El personal departamental
+y los responsables de recopilar información en los municipios deben
+revisar los datos manualmente. Los participantes también pueden verse
+afectados cuando existen errores en nombres, gestiones o registros
+incompletos. La revisión consiste en comprobar que cada registro tenga
+los datos necesarios y que los documentos de respaldo coincidan.
+Después, los datos se transcriben a una planilla para facilitar su
+consulta, consolidación y preparación de informes. Cuando la información
+está incompleta o presenta diferencias, el responsable debe volver al
+documento original para verificarla. Este trabajo repetitivo puede
+ocasionar duplicación de registros, errores de digitación y demoras en
+la entrega de reportes. Como línea base inicial para el ejercicio, se
+plantea revisar aproximadamente 20 registros por jornada; esta cifra
+debe medirse. El tiempo actual se registrará mediante una prueba piloto,
+midiendo cuánto tarda la revisión y transcripción de cada registro.
+Durante noviembre de 2026 se propone estandarizar una planilla única,
+validar campos obligatorios y detectar posibles duplicados. La mejora
+permitirá reducir revisiones repetidas, ordenar los archivos y generar
+reportes con información más consistente.
