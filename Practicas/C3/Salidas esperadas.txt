@@ -1,0 +1,7 @@
+ PROTOCOLO DE MEDICIÓN: BÚSQUEDA LINEAL O(n) 
+n                  Promedio (ms)      Ratio
+2000000            2.2593             1.00x
+8000000            14.7504            6.53x
+32000000           41.3146            18.29x
+Análisis: Al cuadruplicar n (4n), el tiempo se multiplica ~x4.
+Al multiplicar n por 16 (16n), el tiempo se multiplica ~x16.

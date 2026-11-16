@@ -23,3 +23,84 @@ Durante noviembre de 2026 se propone estandarizar una planilla única,
 validar campos obligatorios y detectar posibles duplicados. La mejora
 permitirá reducir revisiones repetidas, ordenar los archivos y generar
 reportes con información más consistente.
+
+MUESTRA DE LOS DATOS REA
+TABLA 1. DATOS PERSONALES
++-----+----------------+-----------------+------------------+----------------------+--------------+--------+------------+--------------+--------------------+----------+
+| N°  | Primer apellid | Segundo apellid | Nombre(s)        | RUDE                 | Fecha nac.   | Género | N° CI      | Lugar nac.   | Ocupación          | Discap.  |
++=====+================+=================+==================+======================+==============+========+============+==============+====================+==========+
+| 1   | QUISPE         | MAMANI          | ANA LUCIA        | 990000000000000001   | 14/03/1988   | F      | 7000001    | Sabaya       | Labores de casa    | NO       |
+| 2   | CONDORI        | FLORES          | MARCO ANTONIO    | 990000000000000002   | 22/06/1990   | M      | 7000002    | Oruro        | Agricultura        | NO       |
+| 3   | CHOQUE         | PAREDES         | JUANA            | 990000000000000003   | 09/11/1985   | F      | 7000003    | Sabaya       | Comercio           | NO       |
+| 4   | MAMANI         | ROJAS           | PEDRO            | 990000000000000004   | 27/07/1982   | M      | 7000004    | Potosí       | Construcción       | NO       |
+| 5   | HUANCA         | GUTIERREZ       | BERNARDINA       | 990000000000000005   | 12/05/1992   | F      | 7000005    | Oruro        | Labores de casa    | NO       |
+| 6   | LOPEZ          | VIZA            | RENATO           | 990000000000000006   | 23/10/1980   | M      | 7000006    | Sabaya       | Agricultura        | NO       |
+| 7   | GARCIA         | MENDOZA         | ZULMA            | 990000000000000007   | 14/02/1987   | F      | 7000007    | La Paz       | Labores de casa    | NO       |
+| 8   | TICONA         | APAZA           | LUIS             | 990000000000000008   | 18/09/1979   | M      | 7000008    | Oruro        | Agricultura        | NO       |
+| 9   | ROJAS          | VARGAS          | LILIANA          | 990000000000000009   | 21/01/1985   | F      | 7000009    | Oruro        | Comercio           | NO       |
+| 10  | TARQUI         | QUISPE          | LUCIANO          | 990000000000000010   | 22/04/1970   | M      | 7000010    | Sabaya       | Agricultura        | NO       |
+| 11  | MOLLO          | CHAMBI          | ELENA            | 990000000000000011   | 03/08/1989   | F      | 7000011    | Sabaya       | Labores de casa    | NO       |
+| 12  | VILCA          | MAMANI          | JOSE LUIS        | 990000000000000012   | 16/12/1984   | M      | 7000012    | Oruro        | Transporte         | NO       |
+| 13  | APAZA          | CONDORI         | ROSA             | 990000000000000013   | 25/05/1991   | F      | 7000013    | Sabaya       | Comercio           | NO       |
+| 14  | FLORES         | CHOQUE          | MIGUEL           | 990000000000000014   | 07/07/1978   | M      | 7000014    | Potosí       | Agricultura        | NO       |
+| 15  | MENDOZA        | QUISPE          | MARIA            | 990000000000000015   | 19/09/1986   | F      | 7000015    | Oruro        | Labores de casa    | NO       |
+| 16  | PAREDES        | HUANCA          | DANIEL           | 990000000000000016   | 11/01/1983   | M      | 7000016    | Sabaya       | Albañilería        | NO       |
+| 17  | VARGAS         | TICONA          | CARMEN           | 990000000000000017   | 30/04/1993   | F      | 7000017    | Oruro        | Comercio           | NO       |
+| 18  | CHAMBI         | MOLLO           | FELIPE           | 990000000000000018   | 05/02/1975   | M      | 7000018    | La Paz       | Agricultura        | NO       |
+| 19  | GUTIERREZ      | ROJAS           | SONIA            | 990000000000000019   | 28/10/1988   | F      | 7000019    | Sabaya       | Labores de casa    | NO       |
+| 20  | MAMANI         | TARQUI          | EUSEBIO          | 990000000000000020   | 17/06/1977   | M      | 7000020    | Oruro        | Comercio           | NO       |
++-----+----------------+-----------------+------------------+----------------------+--------------+--------+------------+--------------+--------------------+----------+
+
+TABLA 2. CALIFICACIONES
++-----+------------+--------------------------+-------------------+--------------------+-------------------------------------+---------+
+| N°  | Matemática | Comunicación y Lenguajes | Ciencias Sociales | Ciencias Naturales | Formación para la Vida (Repostería) | Estado  |
++=====+============+==========================+===================+====================+=====================================+=========+
+| 1   | 77         | 75                       | 80                | 80                 | 79                                  | PR      |
+| 2   | 85         | 82                       | 80                | 77                 | 75                                  | PR      |
+| 3   | 80         | 85                       | 73                | 71                 | 78                                  | PR      |
+| 4   | 72         | 70                       | 75                | 75                 | 78                                  | PR      |
+| 5   | 73         | 70                       | 78                | 78                 | 80                                  | PR      |
+| 6   | 82         | 80                       | 71                | 79                 | 70                                  | PR      |
+| 7   | 71         | 75                       | 82                | 80                 | 75                                  | PR      |
+| 8   | 78         | 73                       | 75                | 78                 | 80                                  | PR      |
+| 9   | 70         | 80                       | 75                | 77                 | 78                                  | PR      |
+| 10  | 75         | 66                       | 65                | 70                 | 70                                  | PR      |
+| 11  | 79         | 78                       | 80                | 82                 | 81                                  | PR      |
+| 12  | 74         | 76                       | 78                | 75                 | 77                                  | PR      |
+| 13  | 88         | 84                       | 86                | 82                 | 85                                  | PR      |
+| 14  | 68         | 72                       | 70                | 73                 | 71                                  | PR      |
+| 15  | 81         | 79                       | 80                | 78                 | 82                                  | PR      |
+| 16  | 76         | 74                       | 75                | 77                 | 76                                  | PR      |
+| 17  | 90         | 88                       | 85                | 87                 | 89                                  | PR      |
+| 18  | 65         | 70                       | 68                | 72                 | 69                                  | PR      |
+| 19  | 83         | 81                       | 84                | 80                 | 82                                  | PR      |
+| 20  | 72         | 75                       | 73                | 74                 | 76                                  | PR      |
++-----+------------+--------------------------+-------------------+--------------------+-------------------------------------+---------+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PROCESO: Revisión, validación y transcripción de documentos educativos y listas de participantes.
+
+1. ¿Cómo se busca/recorre actualmente?
+- Se realiza de forma secuencial, revisando uno por uno los registros y documentos de respaldo de los participantes que envían los municipios, comparándolos de manera manual para verificar datos y detectar duplicidades.
+
+2. Estimación del O actual y justificación:
+- Clasificación: O(n)
+- Justificación: El tiempo de procesamiento y revisión manual crece de forma lineal y directamente proporcional a la cantidad de participantes (n). A mayor volumen de registros, mayor es el tiempo acumulado de revisión.
+
+3. Análisis de Opciones de Complejidad para el Proceso:
+
+OPCIÓN A (Proceso Manual / Secuencial Actual)
+- Complejidad: O(n)
+- Justificación: Al revisar y validar los documentos de los participantes uno por uno de forma secuencial, el tiempo total de ejecución es directamente proporcional al número de registros (n) ingresados desde los municipios.
+
+OPCIÓN B (Proceso Anidado / Comparación Exhaustiva sin Índices)
+- Complejidad: O(n^2)
+- Justificación: Se presenta cuando el personal compara cada registro contra todos los demás de la lista de forma manual para buscar cruces o duplicados complejos, haciendo que las operaciones crezcan de manera cuadrática respecto a la cantidad de datos.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+¿En MI proceso (el de tu H1) conviene ordenar primero? ¿Por qué?
+
+Sí conviene ordenar primero la planilla única consolidada (por RUDE o N° CI), porque el proceso de revisión y validación de la Oficina Departamental Oruro requiere realizar múltiples consultas y cruces repetitivos para verificar respaldos y detectar registros
+duplicados provenientes de distintos municipios. Al ordenar una sola vez (O(n log n)), se elimina la revisión secuencial manual O(n) —y las comparaciones exhaustivas O(n²)—, permitiendo validar cada participante mediante búsqueda binaria en tiempo logarítmico O(log n).

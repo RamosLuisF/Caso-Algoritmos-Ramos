@@ -1,0 +1,22 @@
+EL TORNEO MEDIDO EN JAVASCRIPT (DATOS AL AZAR)               
+ PROTOCOLO: 1 calentamiento + 3 corridas medidas + promedio.          
+
+--- Tabla 1: Inserción vs MergeSort vs QuickSort ---
+         n      inserción    MergeSort    QuickSort
+     10000        39.0 ms       1.2 ms       1.1 ms
+     20000       137.4 ms       2.5 ms       2.1 ms
+     40000       582.7 ms       5.0 ms       6.0 ms
+     80000      2320.1 ms      11.1 ms      22.6 ms
+
+--- Tabla 2: Competencia con tamaños grandes ---
+         n      MergeSort      QuickSort   Array.prototype.sort
+    100000        15.2 ms        28.8 ms                19.1 ms
+   1000000       154.0 ms      2482.3 ms               175.1 ms
+
+ INFORME CORTO DE CONCLUSIONES (practicas/c5/)
+1. Crecimiento Cuadrático O(n²): El algoritmo de Inserción se vuelve ineficiente
+   rápidamente; al duplicar el tamaño 'n', el tiempo se multiplica por ~4.
+2. Escalabilidad O(n log n): MergeSort y QuickSort demuestran una eficiencia
+   excepcional, procesando grandes volúmenes de datos en milisegundos.
+3. Optimización del Motor V8: El método nativo de JavaScript (`Array.sort`)
+   ofrece un rendimiento sobresaliente gracias a optimizaciones nativas de bajo nivel.

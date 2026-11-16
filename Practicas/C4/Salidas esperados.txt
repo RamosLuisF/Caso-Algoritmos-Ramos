@@ -1,0 +1,8 @@
+COMPARACION 
+1. Generando arreglo ordenado de 1,000,000 enteros...
+2. Generando 1000 claves de prueba que sí existen...
+       TABLA DE RESULTADOS: LINEAL VS BINARIA           
+Algoritmo            Tiempo Promedio (1000 búsquedas)
+Búsqueda Lineal      574.6420 ms
+Búsqueda Binaria     0.7918 ms
+Cociente (Lineal / Binaria): 725.77x
