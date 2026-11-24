@@ -36,7 +36,7 @@ Costo: O(n log n). El for de afuera se repite n veces. Adentro, el while parte k
 
 ```
 
-**b) Dos recurrencias ** Resuelve con el teorema maestro de bolsillo (T(1) = 1): escribe a, b, d, la comparación de a con b^d y la forma.
+**b) Dos recurrencias. ** Resuelve con el teorema maestro de bolsillo (T(1) = 1): escribe a, b, d, la comparación de a con b^d y la forma.
 
 ```
 (i)   T(n) = 4 T(n/3) + n
