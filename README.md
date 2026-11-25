@@ -41,3 +41,14 @@ Evaluaciones del curso:
 
 ---
 
+## Cómo reproducir las mediciones
+
+Todas las mediciones fueron ejecutadas en **JavaScript (Node.js v24.11.1)** aplicando el protocolo estándar del curso: **1 corrida de calentamiento + 3 corridas medidas + promedio** (usando `process.hrtime.bigint()` o `performance.now()` según el archivo).
+
+```bash
+node Hitos/H2/medicion.js
+node Hitos/H3/comparacion.js
+node Parcial1/medicion.js
+node Parcial2/gestor.js
+node Integradora/comprador.js
+```
